@@ -1,5 +1,12 @@
-### Hi there 👋
+# Muhammad Rafi
 
+** `Digital craftsman (Developer)` **
+
+Junior Web Developer mainly proficient in the MERN stack and Java. I have experience building interactive and responsive web applications using the REACT JS framework in the front end and Node
+JS And knows how to build full-stack apps using Next JS. My interests lie in building highly scalable, reliable, and maintainable applications that are used by a huge user base.
+
+###Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,nextjs,mongodb,express,styledcomponents,js,sass,&theme=light)](https://skillicons.dev)
 <!--
 **rafipopz98/rafipopz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
