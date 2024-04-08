@@ -6,7 +6,7 @@ Junior Web Developer mainly proficient in the MERN stack and Java. I have experi
 JS And knows how to build full-stack apps using Next JS. My interests lie in building highly scalable, reliable, and maintainable applications that are used by a huge user base.
 
 ### Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,nextjs,mongodb,express,styledcomponents,js,sass,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,nextjs,mongodb,express,solidity,styledcomponents,js,sass,&theme=light)
 <!--
 **rafipopz98/rafipopz98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
