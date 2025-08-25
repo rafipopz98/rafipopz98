@@ -2,8 +2,7 @@
 
 `Digital craftsman (Developer)` 
 
-Junior Web Developer mainly proficient in the MERN stack and Java. I have experience building interactive and responsive web applications using the REACT JS framework in the front end and Node
-JS And knows how to build full-stack apps using Next JS. My interests lie in building highly scalable, reliable, and maintainable applications that are used by a huge user base.
+Software Engineer experienced in the MERN stack and Java, with a strong focus on building interactive, responsive, and scalable web applications. Skilled in React.js for front-end development, Node.js for backend services, and Next.js for full-stack solutions. Passionate about creating reliable and maintainable products that can scale to serve a large user base.
 
 ### Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=java,react,nodejs,nextjs,mongodb,express,solidity,styledcomponents,js,sass,&theme=light)
